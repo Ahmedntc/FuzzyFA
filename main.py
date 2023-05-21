@@ -2,7 +2,7 @@ import skfuzzy as fz
 from skfuzzy import control as ctr
 import numpy as np
 
-class Fuzzy(object):
+class Fuzzy():
   def __init__(self):
     self.text = None
     self.point = 0
