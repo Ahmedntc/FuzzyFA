@@ -1,0 +1,95 @@
+Frase:
+Este gato é muito bonito
+
+7.842105263157896
+
+Resultado:
+Positivo
+
+Frase:
+Este gato é lindo
+
+7.000000000000001
+
+Resultado:
+Positivo
+
+Frase:
+Este gato é muito feio
+
+2.1578947368421053
+
+Resultado:
+Negativo
+
+Frase:
+Não gostei deste filme
+
+5.000000000000001
+
+Resultado:
+Neutro
+
+Frase:
+Odiei essa série
+
+5.000000000000001
+
+Resultado:
+Neutro
+
+Frase:
+Amei muito essa música
+
+5.000000000000001
+
+Resultado:
+Neutro
+
+Frase:
+Esse música é um lixo
+
+2.9999999999999996
+
+Resultado:
+Negativo
+
+Frase:
+Esse filme é horrível
+
+2.9999999999999996
+
+Resultado:
+Negativo
+
+Frase:
+Sua comida é deliciosa
+
+7.000000000000001
+
+Resultado:
+Positivo
+
+Frase:
+Esse cheiro é muito bom
+
+7.842105263157896
+
+Resultado:
+Positivo
+
+Frase:
+Esse cheiro é ruim
+
+2.9999999999999996
+
+Resultado:
+Negativo
+
+Frase:
+Perder é frustrante demais
+
+2.1578947368421053
+
+Resultado:
+Negativo
